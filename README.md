@@ -1,0 +1,4 @@
+jabberClient
+============
+
+lightweight jabber client
